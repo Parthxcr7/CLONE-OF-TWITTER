@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="x.css">
+    <title>Home/X</title>
+</head>
+<body>
+<div class="main">
+    <div class="bar">
+      <!-- <div class="on"> <img class="go" height="50" width="50" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v2.png" alt="twitterx--v2"/></div>   -->
+       <div class="no"> <img height="50" width="55" src="x.PNG" alt=""></div>
+        <div class="polo">
+        
+            <li class="non">
+                <img height="30" width="30"  src="https://img.icons8.com/material-rounded/24/FFFFFF/home.png" alt="home"/>
+                <a>Home</a>
+            </li>
+          
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/ios-filled/50/FFFFFF/search--v1.png" alt="search--v1"/>
+                <a>Search</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/appointment-reminders--v1.png" alt="appointment-reminders--v1"/>
+                <a>Notifaction</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/ios/50/FFFFFF/filled-message.png" alt="filled-message"/>
+                <a>Message</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/color/48/FFFFFF/grok--v2.png" alt="grok--v2"/>
+                <a>Grok</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/windows/32/FFFFFF/bookmark-ribbon--v1.png" alt="bookmark-ribbon--v1"/>
+                <a>Bookmark</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/FFFFFF/external-human-geography-geography-outline-outline-black-m-oki-orlando.png" alt="external-human-geography-geography-outline-outline-black-m-oki-orlando"/>
+                <a>Communities</a>
+            </li>
+        </div> 
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/guarantee--v1.png" alt="guarantee--v1"/>
+                <a>Premium</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/forma-bold-sharp/24/FFFFFF/flash-on.png" alt="flash-on"/>
+                <a>Veified Orgs</a>
+            </li>
+        </div>
+        <div class="polo">
+            <li class="non">
+                <img height="30" width="30" src="https://img.icons8.com/fluency-systems-filled/100/FFFFFF/user-male-circle.png" alt="user-male-circle"/>
+                    <a>Profile</a>
+            </li>
+        </div>
+        <div class="polo">
+           <li class="non">
+                 <img height="30" width="30" src="https://img.icons8.com/windows/32/FFFFFF/connection-status-off.png" alt="connection-status-off"/>
+                <a>More</a>
+                
+              
+            </li>
+            <div class="Post">Post</div>
+            <div class="profile"> 
+                <img class="pro" src="cr7.jpg" alt="">
+                <div class="one"> parth potdar</div>
+                <div class="two" id="two">@parthpotdar71590</div>
+
+             </div>
+
+                 
+        </div>
+
+           
+    </div>
+    <div class="two">
+        <div class="sectwo">
+            <div class="d1">For you</div>
+            <div class="d2">Following</div>
+            
+        </div>
+    <div class="happy">
+      <div class="golf">
+        <div class="k1" >
+            <div> <img class="pro" src="cr7.jpg" alt=""> </div>
+            <div class="K1"> What's happening?</div>
+        </div>
+        <div class="Every" > Every one can Reply</div>
+        <div class="k2">
+          <div class="aa">
+            <div class="go"><img class="nila" height="20" width="20" src="https://img.icons8.com/fluency-systems-filled/100/0084ff/gallery.png" alt="gallery"/></div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/ios-glyphs/30/0084ff/attach-gif.png" alt="attach-gif"/> </div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/ios-filled/50/0084ff/grok.png" alt="grok"/></div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/material-sharp/24/0084ff/sorting-options.png" alt="sorting-options"/></div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/material-outlined/24/0084ff/smiling.png" alt="smiling"/></div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/0084ff/external-Calendar-cenima-flatart-icons-outline-flatarticons.png" alt="external-Calendar-cenima-flatart-icons-outline-flatarticons"/></div>
+            <div class="go"><img class="nila" width="20" height="20" src="https://img.icons8.com/material-outlined/24/0084ff/marker.png" alt="marker"/></div>
+            
+          </div>
+          <div class="bb">
+            <button class="host"> Post </button>
+          </div>
+        </div>
+         <div class="page">
+            <div ><img  class="don" height="49" width="49" src="Don.PNG" alt=""></div>
+           <div class="cr7"> Cristiano Ronaldo </div>
+           <div class="c2"> <img width="20" height="20" src="https://img.icons8.com/fluency-systems-filled/100/228BE6/verified-badge.png" alt="verified-badge"/></div> 
+           <div class="c3">@cristiano. Mar 6</div>
+           <div><img class="pad" width="20" height="20" src="https://img.icons8.com/ios-filled/50/737373/grok.png" alt="grok"/></div>
+           <div><img   class="pad" width="20" height="20" src="https://img.icons8.com/ios-glyphs/30/737373/ellipsis.png" alt="ellipsis"/></div>
+        </div>
+        <div class="Cap"> 123 años de Real ¡Felicidades a toda la familia madridista! ¡Hala Madrid!</div>
+         <div class="wall"> <img  height="516.8" width="516.5" class="saheb" src="saheb.jpg" alt=""> 
+        
+         <div class="like"> 
+            <div class="gt">
+                <img width="20" height="20" src="https://img.icons8.com/ios/50/4D4D4D/speech-bubble--v1.png" alt="speech-bubble--v1"/>
+             <div class="view"> like</div>
+             
+            </div>
+            <div class="gt"> <img width="20" height="20" src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/4D4D4D/external-Retweet-social-media-tanah-basah-basic-outline-tanah-basah.png" alt="external-Retweet-social-media-tanah-basah-basic-outline-tanah-basah"/>
+              <div class="view"> replay</div>
+            </div>
+            <div class="gt" >
+               
+             <img width="20" height="20" src="https://img.icons8.com/material-outlined/24/4D4D4D/like--v1.png" alt="like--v1"/>    
+            <div class="view"> like</div>
+            </div> 
+             <div class="gt" >
+                <img width="20" height="20" src="https://img.icons8.com/windows/32/4D4D4D/bookmark-ribbon--v1.png" alt="bookmark-ribbon--v1"/>
+   <div class="view">1.8k</div>
+             </div>
+             <div class="share" >
+                <img width="20" height="20" src="https://img.icons8.com/ios-glyphs/30/4D4D4D/share--v1.png" alt="share--v1"/>
+                
+             </div>
+
+             
+        </div>
+        </div>
+      
+        </div>
+       
+    </div> 
+  </div>    
+  <div class="best"> 
+    <div class="p1">
+     <div> <img class="ser" width="20" height="20" src="https://img.icons8.com/ios-filled/50/8a8a91/search--v1.png" alt="search--v1"/></div>
+     <input type="search" id="site-search" name="q" placeholder="search"  class="mast"/>
+    </div>
+    <div class="p2">
+        <div class="s1">Subscribe to Premium</div>
+        <div class="s2">Subscribe to unlock new features and if </div>
+        <div class="s2">eligible, receive a share of revenue.</div>
+        <button class="sub" >Subscribe</button>
+    </div>
+    <div class="p3">
+      <div class="m1"> What’s happening</div>
+      <div class="fall"> 
+        <div><img height="70" width="70" class="jb" src="jb.jpg" alt=""></div>
+        <div class="f1"> 
+            From the Desk of Anthony    
+      </div>
+
+     </div>
+     <div class="baby"> 
+        <div class="nv">
+         <div>Entertainment . Trendig</div>
+         <div><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/737373/ellipsis.png" alt="ellipsis"/></div>
+        </div>
+        <div class="sal">SALMAN REINVENT YOURSELF</div>
+        <div class="sharu">1,790 posts</div>
+
+      </div>
+     
+      <div class="baby"> 
+        <div class="nv">
+         <div>Entertainment . Trendig</div>
+         <div><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/737373/ellipsis.png" alt="ellipsis"/></div>
+        </div>
+        <div class="sal">SALMAN REINVENT YOURSELF</div>
+        <div class="sharu">1,790 posts</div>
+
+      </div>
+
+      <div class="baby"> 
+        <div class="nv">
+         <div>Entertainment . Trendig</div>
+         <div><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/737373/ellipsis.png" alt="ellipsis"/></div>
+        </div>
+        <div class="sal">SALMAN REINVENT YOURSELF</div>
+        <div class="sharu">1,790 posts</div>
+
+      </div>
+
+      <div class="baby"> 
+        <div class="nv">
+         <div>Entertainment . Trendig</div>
+         <div><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/737373/ellipsis.png" alt="ellipsis"/></div>
+        </div>
+        <div class="sal">SALMAN REINVENT YOURSELF</div>
+        <div class="sharu">1,790 posts</div>
+
+      </div>
+     
+      <div class="show"> Show more</div>
+
+
+
+
+
+   </div> 
+
+ </div>
+    
+</div>
+
+</body>
+</html>
